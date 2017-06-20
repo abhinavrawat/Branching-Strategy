@@ -1,3 +1,4 @@
 https://www.siteground.com/tutorials/git/commands.htm <- Git commands
 https://git-scm.com/book/en/v2/Git-Branching-Rebasing <- Rabasing
 https://www.atlassian.com/git/tutorials/merging-vs-rebasing <- Rebase vs Merge
+http://nvie.com/posts/a-successful-git-branching-model/
