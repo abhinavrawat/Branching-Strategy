@@ -1,0 +1,2 @@
+https://www.siteground.com/tutorials/git/commands.htm <- Git commands
+https://git-scm.com/book/en/v2/Git-Branching-Rebasing <- Rabasing
